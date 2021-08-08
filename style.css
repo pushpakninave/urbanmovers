@@ -265,6 +265,42 @@
   position: relative;
   bottom:220px;
 }
+.maps_text_feedback{
+  width: 83vw;
+  display: inline-flex;
+  padding: 2% 8%;
+}
+.Address_g_map{
+  padding: 5% 5%;
+}
+.Address_g_map iframe{
+border-radius: 5px;
+}
+.address_g_map_brief{
+  width: 400px;
+  background-color: #F0C225;
+  color: #000;
+  border-radius: 5px;
+  padding-left:10px;
+}
+.address_g_map_brief h2{
+  font-size: 15px;
+}
+.feedback_queries{
+  float: right;
+  padding: 5% 5%;
+}
+form input{
+margin: 20px 0px;
+border-radius: 5px;
+background-color: #AEABA3;
+color: #000;
+}
+form{
+  display:grid;
+  color: #fff;
+  padding-left: 20px;
+}
 .bottom_row {
   background-color:#FF3859;
   color:#000;
